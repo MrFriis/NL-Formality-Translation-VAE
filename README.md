@@ -7,7 +7,13 @@ Corpus, Benchmarks and Metrics for Formality Style Transfer](https://www.cs.roch
 
  The project is based on the LSTM-VAE model presented in the paper [Generating sentences from a continuous space](https://arxiv.org/pdf/1511.06349.pdf).
 
+# Repo
+The repository contain the three main folders:
 
-# How to run:
-Since we have agreed to not upload Grammarlys data the code is not runable. 
+``` Training Notebooks ``` folder include the models useing a combination of cyclic annealing (CA), Linear Anealing (LA), Word Dropout (WD) and free bits (FB).
+``` Modules ``` folder include the general LSTM-VAE module and model specific functions
+``` Trained models ``` folder include the internal model states (parameters) for the trained models.
+
+# Examination comment
+Since the dataset is restricted we can't upload Grammarlys data, so the code is not runable. 
 Examiners - to get a demo contact us, and we will share our google colab with you.
