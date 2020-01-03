@@ -1,2 +1,0 @@
-﻿# Papers and links 
-https://arxiv.org/pdf/1909.00868.pdf
